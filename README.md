@@ -36,8 +36,6 @@ Mesh
 
 ## Validation
 
-## Validation
-
 The numerical model was validated against the experimental measurements reported by Pelfrey and Liburdy.
 
 Validation included:
